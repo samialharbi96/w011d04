@@ -1,0 +1,26 @@
+body{
+    background-image: url(./tree.jpg);
+
+
+  background-size: cover;
+
+
+  
+  background-repeat: no-repeat;
+
+}
+
+.gold1{color: rgb(300, 200, 10);}
+
+.gold2{ color: rgb(300, 200, 30);}
+
+.logo h1{display: inline;} 
+
+.b1{background-color: black;
+    color: cornsilk;
+    border: black;
+    width: 100px;
+    height: 10px;}
+
+
+
